@@ -7,6 +7,7 @@ This repository contains R scripts used to analyze the association between SARS-
 - R >= 4.1
 - survival
 - cmprsk
+- nnet
 
 ## Notes
 - Patient data are not shared due to privacy regulations
