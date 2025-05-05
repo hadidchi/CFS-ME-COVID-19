@@ -11,3 +11,4 @@ This repository contains R scripts used to analyze the association between SARS-
 
 ## Notes
 - Patient data are not shared due to privacy regulations
+- Please read code description by clicking the three dots near the "Add files via upload"
